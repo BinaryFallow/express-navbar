@@ -13,4 +13,4 @@ In order for the code to work:
 
 2. download both the index.html and server.js
 
-3. to run the code, type "node server.js" and it will start the server and leave a link named, http://localhost:3000
+3. to run the code, type "node server.js"
